@@ -118,7 +118,6 @@ class Builder
         static::defaultMorphKeyType('string');
     }
 
-
     /**
      * Create a database in the schema.
      *
